@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | Site Reliability Engineer | Linux | AWS | Kubernetes</h3>
 
 <p align="center">
-<img src="https://github.com/VimalMishra1998/VimalMishra1998/blob/main/ss.gif" width="100%">
+<img src="https://github.com/VimalMishra1998/VimalMishra1998/blob/main/ss.gif" width="10%">
 </p>
 
 <p align="center">
