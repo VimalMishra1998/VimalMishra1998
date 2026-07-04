@@ -93,7 +93,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/vimal-mishra-258aab82/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
