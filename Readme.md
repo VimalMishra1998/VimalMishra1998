@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Vimal Mishra</h1>
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector</h3>
-
+<div align="center">
+  <img src="https://github.com/VimalMishra1998/VimalMishra1998/blob/main/devops%20image.png">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalmishra1998&label=Profile%20views&color=0e75b6&style=flat" alt="vimalmishra1998" /> </p>
 
 - 🔭 I’m currently working at [Oracle](https://github.com/VimalMishra1998/vimal)
