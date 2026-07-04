@@ -97,7 +97,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="vimalmishra@outlook.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
