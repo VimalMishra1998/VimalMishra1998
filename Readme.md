@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalmishra1998&show_icons=true&locale=en" alt="vimalmishra1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalmishra1998&" alt="vimalmishra1998" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VimalMishra1998/VimalMishra1998/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
