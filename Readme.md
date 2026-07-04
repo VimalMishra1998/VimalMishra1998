@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vimal Mishra</h1>
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector</h3>
 <div align="center">
-  <"https://github.com/user-attachments/assets/f506239e-b6ab-418d-ad04-2660406639cd">
+  https://github.com/user-attachments/assets/f506239e-b6ab-418d-ad04-2660406639cd
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalmishra1998&label=Profile%20views&color=0e75b6&style=flat" alt="vimalmishra1998" /> </p>
 
